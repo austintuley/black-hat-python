@@ -1,2 +1,2 @@
 # black-hat-python
-Code written as I read through Black Hat Python 2nd Edition.
+Code examples from Black Hat Python 2nd Edition, written by Justin Seitz and Tim Arnold.
